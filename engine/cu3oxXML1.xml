@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cu3ox>
+<Settings>
+  <imageWidth>640</imageWidth>
+  <imageHeight>360</imageHeight>
+  <segments>5</segments>
+  <tweenTime>1.2</tweenTime>
+  <tweenDelay>0.1</tweenDelay>
+  <zDistance>0</zDistance>
+  <expand>20</expand>
+  <innerColor>0x111111</innerColor>
+  <textBackground>0x333333</textBackground>
+  <startBackground>0xcccccc</startBackground>
+  <shadowDarkness>100</shadowDarkness>
+  <textDistance>3</textDistance>
+  <autoplay>3</autoplay>
+  <rDirection>right</rDirection>
+  <borderRadius>16</borderRadius>
+  <descriptionWidth>610</descriptionWidth>
+  <descriptionHeight>60</descriptionHeight>
+  <descriptionOffset>290</descriptionOffset>
+  <descriptionType>upDown</descriptionType>
+  <noShadow>1</noShadow>
+  <loop>1</loop>
+</Settings>
+<Image Filename="ensalada2.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="ensalada180408.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="ensaladadefruta.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="pastas2.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="pollo.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="bife.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="condimentos.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+<Image Filename="cortado.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>right</rDirection>
+<segments>5</segments>
+</Settings>
+</Image>
+</Cu3ox>
